@@ -27,6 +27,7 @@ o	Visualization (histograms, KDE plots)
 o	Hypothesis testing (mean comparison & conversion analysis)
 
 # Tools Used in the Project
+
 •	Python
 •	Pandas (data handling & analysis)
 •	NumPy (numerical computation)
